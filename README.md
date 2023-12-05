@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anandak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anandak07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anandak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandak07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anand kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand kumar" height="30" width="40" /></a>
 </p>
 
@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandak07&show_icons=true&locale=en&layout=compact" alt="anandak07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandak07&show_icons=true&locale=en" alt="anandak07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandak07&" alt="anandak07" /></p>
