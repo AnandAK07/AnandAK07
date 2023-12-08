@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandak07" alt="anandak07" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anandak07.github.io](https://anandak07.github.io)
-
 - 📫 How to reach me **anandkumark055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
