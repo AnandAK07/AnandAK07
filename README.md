@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandak07" alt="anandak07" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://anandak07.github.io](https://anandak07.github.io)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://anandak07.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://anandak07.github.io/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anandak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandak07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anand-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anand-code" height="30" width="40" /></a>
 </p>
