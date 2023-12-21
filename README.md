@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar K</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://images.app.goo.gl/1apF8CQcur8VzWo27"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw3SHP10qrwRdCiDvxtHYzZk&ust=1703229270456000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjM8O39n4MDFQAAAAAdAAAAABAE"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandak07&label=Profile%20views&color=0e75b6&style=flat" alt="anandak07" /> </p>
 
