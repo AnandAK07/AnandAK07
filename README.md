@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar K</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."></img>
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/AnandAK07/AnandAK07/assets/126145328/3b67eae3-9b46-462e-a5c1-20a50492f073)
+"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandak07&label=Profile%20views&color=0e75b6&style=flat" alt="anandak07" /> </p>
 
