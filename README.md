@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar K</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"></img>
+<img src="https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandak07&label=Profile%20views&color=0e75b6&style=flat" alt="anandak07" /> </p>
 
