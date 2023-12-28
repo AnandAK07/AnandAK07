@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar K</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRza2moVP7e_TZmJhkv7U6v6EXRlII8BkC6qPx3Dzh1ifkBPtZl4s9fEt6DQPCnv7bRTuo" ></img>
+<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRza2moVP7e_TZmJhkv7U6v6EXRlII8BkC6qPx3Dzh1ifkBPtZl4s9fEt6DQPCnv7bRTuo" ></img>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandak07&label=Profile%20views&color=0e75b6&style=flat" alt="anandak07" /> </p>
 
