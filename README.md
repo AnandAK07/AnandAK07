@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anandkumark055@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pNtyzbLxIs5-UYxwWhfZTzhYMqQUkwVD/view?usp=sharing](https://drive.google.com/file/d/1-9TWk7OZ0hN2GraprcFqfkh-feO-zOuu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_p-rQYj3oGmIlescCRKx7nylxuipTFgT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
