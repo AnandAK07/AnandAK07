@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar K</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRza2moVP7e_TZmJhkv7U6v6EXRlII8BkC6qPx3Dzh1ifkBPtZl4s9fEt6DQPCnv7bRTuo" ></img>
-
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRza2moVP7e_TZmJhkv7U6v6EXRlII8BkC6qPx3Dzh1ifkBPtZl4s9fEt6DQPCnv7bRTuo" ></img>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandak07&label=Profile%20views&color=0e75b6&style=flat" alt="anandak07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandak07" alt="anandak07" /></a> </p>
